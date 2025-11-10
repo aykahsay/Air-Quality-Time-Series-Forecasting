@@ -1,0 +1,5 @@
+2025-11-10 15:23:32 [INFO] ==== INCREMENTAL ETL PROCESS STARTED ====
+2025-11-10 15:23:32 [INFO] Environment variables loaded successfully.
+2025-11-10 15:23:32 [ERROR] ETL process failed: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'your_username'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'your_username'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2025-11-10 15:23:32 [INFO] ==== INCREMENTAL ETL PROCESS FINISHED ====
